@@ -15,6 +15,8 @@ This script automates browser tasks:
 
 5.Maximizes the window.
 
+
+
 **####  TASK 2   ####**
 
 **Class Name/Scrpit name: BasicAuthBypassAutomation**
@@ -30,6 +32,8 @@ Hey there, Selenium fans! It's Day 1 of our exciting 50-day coding challenge, an
 Link: https://the-internet.herokuapp.com/basic_auth
 
 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞: admin /  𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝: admin
+
+
 
 **####  TASK 3   ####**
 

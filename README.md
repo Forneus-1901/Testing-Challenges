@@ -1,6 +1,6 @@
 # Testing-Challenges
 
-**#Cookies Deletion Scrpt:**
+**#Cookies Deletion Script:**
 
 This script automates browser tasks:
 

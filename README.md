@@ -30,3 +30,17 @@ Hey there, Selenium fans! It's Day 1 of our exciting 50-day coding challenge, an
 Link: https://the-internet.herokuapp.com/basic_auth
 
 𝐔𝐬𝐞𝐫𝐧𝐚𝐦𝐞: admin /  𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝: admin
+
+**####  TASK 3   ####**
+
+**Class Name/Scrpit name: DisabledFieldInputAutomation**
+
+𝐃𝐚𝐲 2: 𝐇𝐨𝐰 𝐭𝐨 𝐡𝐚𝐧𝐝𝐥𝐞 𝐝𝐢𝐬𝐚𝐛𝐥𝐞 𝐭𝐞𝐱𝐭𝐛𝐨𝐱 𝐨𝐫 𝐩𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐟𝐢𝐞𝐥𝐝 𝐔𝐬𝐢𝐧𝐠 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 😎
+
+Hey there, Selenium fans! It's Day 2 of our exciting 50-day coding challenge, and over the next few weeks, we'll be diving into the world of web automation, learning new skills, and tackling fun challenges together. 
+
+✅ 𝐃𝐚𝐲 2 -𝐂𝐨𝐝𝐢𝐧𝐠 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞:
+
+𝐓𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨: Develop an automation script that will input a value in a disabled field (You cannot able to input value in field with sendkeys() directly if field is disabled)
+
+𝐋𝐢𝐧𝐤: https://seleniumpractise.blogspot.com/2016/09/how-to-work-with-disable-textbox-or.html

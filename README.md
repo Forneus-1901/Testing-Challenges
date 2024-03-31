@@ -84,3 +84,24 @@ Hey there, Selenium fans! It's Day 4 of our exciting 50-day coding challenge, an
 𝐇𝐢𝐧𝐭: Not all elements are instantly clickable, particularly when animations etc. are in use.
 
 ✅𝐂𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐨𝐰 𝐥𝐢𝐧𝐤: https://testpages.eviltester.com/styled/challenges/growing-clickable.html
+
+
+
+**################################# TASK 6 ############################################**
+
+**Class Name/Scrpit name: SecureCodeEntryAutomation**
+
+✅ 𝐃𝐚𝐲 5 - 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐂𝐨𝐝𝐢𝐧𝐠 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞😎
+
+Hey there, Selenium fans! It's Day 5 of our exciting 50-day coding challenge, and over the next few weeks, we'll be diving into the world of web automation, learning new skills, and tackling fun challenges together.
+
+✅𝐓𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨:
+
+𝐔𝐬𝐢𝐧𝐠 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐞𝐧𝐭𝐞𝐫 𝐭𝐡𝐞 𝐯𝐚𝐥𝐢𝐝 𝐜𝐨𝐝𝐞 𝐛𝐲 𝐤𝐞𝐲𝐛𝐨𝐚𝐫𝐝 𝐤𝐞𝐲𝐬 𝐛𝐲 𝐩𝐫𝐞𝐬𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐨𝐧𝐥𝐲 𝐤𝐞𝐲 𝐛𝐮𝐭𝐭𝐨𝐧 𝐚𝐧𝐝 𝐚𝐬𝐬𝐞𝐫𝐭𝐢𝐧𝐠 "𝐬𝐮𝐜𝐜𝐞𝐬𝐬" 𝐦𝐞𝐬𝐬𝐚𝐠𝐞. The confirmation code is - "999999".
+You cannot use sendkeys("9") directly. 
+
+𝐇𝐢𝐧𝐭: Use keyboard events Keys concept 
+
+✅𝐂𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐨𝐰 𝐥𝐢𝐧𝐤: https://qaplayground.dev/apps/verify-account/
+
+

@@ -105,3 +105,20 @@ You cannot use sendkeys("9") directly.
 ✅𝐂𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐨𝐰 𝐥𝐢𝐧𝐤: https://qaplayground.dev/apps/verify-account/
 
 
+
+**################################# TASK 7 ############################################**
+
+**Class Name/Scrpit name: StopAndWaitEfficiencyTester**
+
+✅ 𝐃𝐚𝐲 6 - 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐂𝐨𝐝𝐢𝐧𝐠 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞😎
+
+Hey there, Selenium fans! It's Day 6 of our exciting 50-day coding challenge, and over the next few weeks, we'll be diving into the world of web automation, learning new skills, and tackling fun challenges together.
+
+✅𝐓𝐞𝐬𝐭 𝐒𝐜𝐞𝐧𝐚𝐫𝐢𝐨:
+
+𝐂𝐫𝐞𝐚𝐭𝐞 𝐚𝐧 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐭𝐞𝐬𝐭 𝐬𝐜𝐫𝐢𝐩𝐭 𝐭𝐡𝐚𝐭 𝐜𝐥𝐢𝐜𝐤𝐬 𝐭𝐡𝐞 𝐒𝐭𝐚𝐫𝐭 𝐛𝐮𝐭𝐭𝐨𝐧 𝐚𝐧𝐝 𝐭𝐡𝐞𝐧 𝐰𝐚𝐢𝐭𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐛𝐚𝐫 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 65%. 𝐓𝐡𝐞𝐧 𝐭𝐡𝐞 𝐭𝐞𝐬𝐭 𝐬𝐡𝐨𝐮𝐥𝐝 𝐜𝐥𝐢𝐜𝐤 𝐒𝐭𝐨𝐩. 𝐓𝐡𝐞 𝐥𝐞𝐬𝐬 𝐭𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐯𝐚𝐥𝐮𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐭𝐨𝐩𝐩𝐞𝐝 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐛𝐚𝐫 𝐚𝐧𝐝 75% 𝐭𝐡𝐞 𝐛𝐞𝐭𝐭𝐞𝐫 𝐲𝐨𝐮𝐫 𝐫𝐞𝐬𝐮𝐥𝐭.
+
+✅𝐂𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐨𝐰 𝐥𝐢𝐧𝐤: http://uitestingplayground.com/progressbar
+
+
+
